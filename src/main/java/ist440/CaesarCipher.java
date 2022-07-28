@@ -26,13 +26,6 @@ public class CaesarCipher {
 
     public static void main(String[] args) throws Exception {
         
-//        AwsBasicCredentials awsCreds = AwsBasicCredentials.create(
-//                "AKIAXULXS6ZZRNBMMP7O",
-//                "sgCY6+yMIPtiVHEAAaqLlXyHOdf4i8H3DHP9Emcz");
-//
-//        S3Client s3 = S3Client.builder()
-//                .credentialsProvider(StaticCredentialsProvider.create(awsCreds))
-//                .build();
         Handler handle = new Handler();
       
        
